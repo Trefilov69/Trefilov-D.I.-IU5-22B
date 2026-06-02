@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Seminar7.Tests/Seminar7.Tests.csproj" />
+  <Project Path="Seminar7/Seminar7.csproj" />
+</Solution>
